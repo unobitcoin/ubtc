@@ -15,6 +15,11 @@
 
 **ASIC/FPGA/GPU resistant CPU mining algorithm. No more mining pools and thus no attacks.**
 
+### Private Pre-Sale ICO started at [https://uno-bitcoin.com](https://uno-bitcoin.com)
+You will need to activate your account to Level 1 (0.0001 BTC Donation) to participate.
+
+![UBTC_Pre-sale](https://github.com/unobitcoin/ubtc/blob/main/pics/pre1.jpg)
+
 ### Pre-Mined Distribution
 
 ![UBTC_PIE](https://github.com/unobitcoin/ubtc/blob/main/pics/pie.jpg)
@@ -33,8 +38,8 @@
 
 ### Windows GUI Wallet Teaser
 
-![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet1.jpg)
+![UBTC_GUI_Wallet1](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet1.jpg)
 
-![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet2.jpg)
+![UBTC_GUI_Wallet2](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet2.jpg)
 
-![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet3.jpg)
+![UBTC_GUI_Wallet3](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet3.jpg)
