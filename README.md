@@ -15,4 +15,26 @@
 
 **ASIC/FPGA/GPU resistant CPU mining algorithm. No more mining pools and thus no attacks.**
 
-![UBTC_GUI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet1.jpg)
+### Pre-Mined Distribution
+
+![UBTC_PIE](https://github.com/unobitcoin/ubtc/blob/main/pics/pie.jpg)
+
+### UBTC Supply Outlook
+
+![UBTC_Supply](https://github.com/unobitcoin/ubtc/blob/main/pics/emission.jpg)
+
+### CLI Wallet Teaser
+
+![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/cliwallet.jpg)
+
+### Blockchain Explorer Teaser
+
+![UBTC_Explorer](https://github.com/unobitcoin/ubtc/blob/main/pics/explorer.jpg)
+
+### Windows GUI Wallet Teaser
+
+![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet1.jpg)
+
+![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet2.jpg)
+
+![UBTC_CLI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet3.jpg)
