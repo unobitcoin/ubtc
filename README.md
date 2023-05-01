@@ -11,4 +11,8 @@
 - Difficulty: **Retargets at every block**
 - Ticker: **UBTC**
 
+**Homomorphic Encryption Blockchain - Increased Reliability, Privacy, Security, Usability and Portability.**
+
+**ASIC/FPGA/GPU resistant CPU mining algorithm. No more mining pools and thus no attacks.**
+
 ![UBTC_GUI_Wallet](https://github.com/unobitcoin/ubtc/blob/main/pics/guiwallet1.jpg)
