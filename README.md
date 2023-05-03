@@ -10,6 +10,10 @@
 - Block reward: **Halving every 4 years**
 - Difficulty: **Retargets at every block**
 - Ticker: **UBTC**
+- Pre-Sale ICO:  **[https://uno-bitcoin.com](https://uno-bitcoin.com)** (may 2023)
+- Website: **[https://ubtc.digital](https://ubtc.digital)** (sept 2023)
+- Block Explorer: **[https://explorer.ubtc.digital](https://explorer.ubtc.digital)** (sept 2023)
+
 
 **Homomorphic Encryption Blockchain - Increased Reliability, Privacy, Security, Usability and Portability.**
 
@@ -19,6 +23,10 @@
 You will need to activate your account to Level 1 (0.0001 BTC Donation) to participate.
 
 ![UBTC_Pre-sale](https://github.com/unobitcoin/ubtc/blob/main/pics/pre1.jpg)
+
+### Untraceable Bitcoin (UBTC) fixes everything that is wrong about Bitcoin (BTC)
+
+![UBTC_Pre-sale](https://github.com/unobitcoin/ubtc/blob/main/pics/ubtc-btc.jpg)
 
 ### Pre-Mined Distribution
 
